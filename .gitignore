@@ -1,0 +1,7 @@
+addons/
+config/
+odoo-db-data/
+odoo-web-data/
+odoo_pg_pass
+*.bk
+*.bak
